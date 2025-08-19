@@ -17,7 +17,7 @@ const Header = () => {
         </div>
          <div className="relative inline-block  top-2 lg:top-1/2 lg:w-[78px] ">
            <select id="countries" class=" w-[70px] lg:w-[78px] focus:outline-none  appearance-none text-white bg-black">
-            <option selected Value="English">English</option>
+            <option selected Value="Eng">English</option>
             <option value="BN">BN</option>
           </select>
           <FaAngleDown className=" absolute right-0 lg:right-0  top-5 lg:top-1/2 -translate-y-4 lg:-translate-y-1/2  pointer-events-none text-white"/>
